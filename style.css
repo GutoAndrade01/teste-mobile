@@ -259,7 +259,6 @@ div.form-imput .input:focus::placeholder {
         width: 98vw;
         box-shadow: none;
         border-radius: 0 0 0 0 ;
-        margin-top: -250px;
     }
 
     .container1{
