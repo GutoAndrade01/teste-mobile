@@ -256,9 +256,10 @@ div.form-imput .input:focus::placeholder {
     }
     .container {
         display: flex;
-        width: 98vw;
+        width: 90%;
         box-shadow: none;
         border-radius: 0 0 0 0 ;
+        margin-top: -200px;
     }
 
     .container1{
