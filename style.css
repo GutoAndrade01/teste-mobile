@@ -250,13 +250,14 @@ div.form-imput .input:focus::placeholder {
 @media screen and (max-width: 500px) {
     
     body{
+        width: 400px;
         background: #1f024e;
         height: 99vh;
 
     }
     .container {
         display: flex;
-        width: 60%;
+        width: 100%;
         box-shadow: none;
         border-radius: 0 0 0 0 ;
         margin-top: -210px;
